@@ -1,0 +1,6 @@
+transformers
+pydub
+torch
+rapidfuzz
+pyarabic
+python-Levenshtein
