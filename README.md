@@ -65,8 +65,7 @@ Uses the [tarteel-ai/whisper-base-ar-quran](https://huggingface.co/tarteel-ai/wh
 
 ## Results
 
-- **Random Forest**: WER: XX%, CER: XX% (replace with your actual results)
-- **RNN**: WER: XX%, CER: XX% (replace with your actual results)
+The base Whisper model used in this project achieves approximately 60% transcription accuracy (measured by WER/CER) on Quranic Arabic recitations with regional accents. This is expected, as the model was not fine-tuned on this specific accent or domain. Fine-tuning on domain-specific or accented data can significantly improve accuracy
 
 ## Example
 
