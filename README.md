@@ -2,6 +2,12 @@
 
 This project was developed to help my friend improve his Arabic recitation. The project tries to solve the challenge of accurately transcribing Quranic Arabic audio, providing automated segmentation, transcription, and feedback tools tailored to users needs.
 
+## Important note
+
+The notebook in this repository contains only code cells and essential metadata. Cell outputs have been intentionally omitted, and widget metadata was removed to resolve rendering issues and GitHub compatibility problems.
+
+If you wish to see the outputs or use interactive widgets, please run the notebook locally after installing the required dependencies.
+
 ## Quranic Arabic ASR Pipeline
 
 This project implements an Automatic Speech Recognition (ASR) pipeline for Quranic Arabic audio using the Whisper model and Hugging Face Transformers. It features silence-based audio segmentation, batch transcription, objective accuracy metrics (WER, CER), and user-friendly color-coded feedback.
